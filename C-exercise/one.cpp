@@ -4,7 +4,7 @@
 #include <conio.h>
 
 void main()
-{
+{ 
 	int num,i;
 
 	printf("Input the number here:\n" );
