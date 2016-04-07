@@ -1,1 +1,1 @@
-# C-language
+# C-language exercise
