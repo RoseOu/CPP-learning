@@ -1,4 +1,4 @@
-//编程计算1x2x3+3x4x5+...+99x100x101的值。
+// 编程计算 1x2x3+3x4x5+...+99x100x101 的值。
 
 #include <stdio.h>
 #include <conio.h>
