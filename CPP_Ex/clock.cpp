@@ -1,3 +1,6 @@
+/* 定义自己的时钟类，建立时钟对象，将自己的时钟初始化为一个时间，如：8:59:50。运行时钟，
+按秒显示当前时间。 */
+
 #include<iostream>  
 #include<ctime>  
 #include<windows.h>  

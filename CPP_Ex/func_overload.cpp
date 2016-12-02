@@ -1,3 +1,5 @@
+/* 设计一函数add，分别进行字符型、浮点型、字符串型数的加法。 */
+
 #include <iostream>
 using namespace std;
 

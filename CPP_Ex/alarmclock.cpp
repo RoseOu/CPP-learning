@@ -1,3 +1,6 @@
+/* 使用继承机制，继承Clock类，设计一个活闹钟，当运行到指定时间时响铃。响铃时间为5秒，
+响铃期间不影响时钟运行。 */
+
 #include <iostream>  
 #include <ctime>  
 #include <windows.h>  

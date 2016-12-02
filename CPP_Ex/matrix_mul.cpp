@@ -1,3 +1,5 @@
+/* 输入一动态矩阵（行、列动态设定），计算乘积 */
+
 #include <iostream>
 using namespace std;
 
